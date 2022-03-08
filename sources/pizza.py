@@ -64,5 +64,4 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'ham': 4, 'onion': 3},
         'price': 11,
         },
-
 }
